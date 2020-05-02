@@ -1,0 +1,2 @@
+# Diferencia entre git merge y git merge --no-ff
+Se sabe que estos comandos sirver para fusionar ramas en git en el caso de **git merge** solo fusionan las ramas mientras que al utilizar el comando **git merge --no-ff** ademas de fusionar las ramas se genera un commit lo que ayuda a futuras correcciones de errores si se generan o por si en algun caso se quiere saber exactamente que paso ,por que si se utiliza solo git marge no se genera ninguna distincion al momento de unir ramas
